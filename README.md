@@ -7,7 +7,7 @@ This repository contains the code and training data for my Final Year Project at
 Python and Jupyter Notebook has to be installed to run the code. (Anaconda is recommended)  
   
 Python libraries required:  
-LibROSA  
+[LibROSA](https://librosa.github.io/librosa/install.html)  
 NumPy  
 Matplotlib  
 scikit-learn  
