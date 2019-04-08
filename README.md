@@ -12,5 +12,5 @@ NumPy
 Matplotlib  
 scikit-learn  
 pandas  
-Keras  
-TensorFlow  
+[TensorFlow](https://www.tensorflow.org/install/)  
+[Keras](https://keras.io/#installation)  
