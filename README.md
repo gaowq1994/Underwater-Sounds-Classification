@@ -4,7 +4,8 @@ This repository contains the code and training data for my Final Year Project at
 
 ## Requirements
 
-Python and Jupyter Notebook has to be installed to run the code. (Anaconda is recommended)    
+Python and Jupyter Notebook has to be installed to run the code. (Anaconda is recommended)  
+  
 Python libraries required:  
 LibROSA  
 NumPy  
