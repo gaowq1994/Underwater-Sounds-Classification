@@ -14,3 +14,7 @@ scikit-learn
 pandas  
 [TensorFlow](https://www.tensorflow.org/install/)  
 [Keras](https://keras.io/#installation)  
+
+## Dataset
+
+Dataset can be found at https://cis.whoi.edu/science/B/whalesounds/index.cfm
