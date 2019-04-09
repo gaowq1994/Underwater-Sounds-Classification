@@ -17,4 +17,4 @@ pandas
 
 ## Dataset
 
-Sound files used for project can be found at https://cis.whoi.edu/science/B/whalesounds/index.cfm
+Sound files used for project downloaded from https://cis.whoi.edu/science/B/whalesounds/index.cfm.
