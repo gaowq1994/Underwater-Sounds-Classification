@@ -8,7 +8,7 @@ Python and Jupyter Notebook have to be installed to run the code. (Anaconda is r
   
 Python libraries required:  
 [LibROSA](https://librosa.github.io/librosa/install.html)  
-NumPy  
+[NumPy](https://scipy.org/install.html)  
 Matplotlib  
 scikit-learn  
 pandas  
