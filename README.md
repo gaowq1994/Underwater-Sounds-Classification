@@ -1,6 +1,7 @@
 # Automated Classification of Underwater Sounds Using Machine Learning
 
-This repository contains the code and training data for my Final Year Project at National University of Singapore.
+This repository contains the code and training data for my Final Year Project at National University of Singapore.  
+https://github.com/gaowq1994/Underwater-Sounds-Classification
 
 ## Requirements
 
