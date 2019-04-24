@@ -16,6 +16,6 @@ pandas
 [TensorFlow](https://www.tensorflow.org/install/)  
 [Keras](https://keras.io/#installation)  
 
-## Dataset
+## Training Dataset
 
 Sound files used for project downloaded from [“Watkins Marine Mammal Sound Database, Woods Hole Oceanographic Institution.”](https://cis.whoi.edu/science/B/whalesounds/index.cfm)
